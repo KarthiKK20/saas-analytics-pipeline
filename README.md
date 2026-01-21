@@ -9,30 +9,6 @@ The pipeline is fully automated and scheduled for daily execution.
 ---
 
 ## Architecture
-
-# SaaS Analytics End-to-End Data Pipeline 🚀
-
-## Overview
-This project is an end-to-end **SaaS Analytics Data Pipeline** built using a **Medallion Architecture (Bronze → Silver → Gold)**.  
-It ingests raw SaaS data, performs transformations and data quality checks, produces BI-ready aggregates, and delivers insights via dashboards and EDA.
-
-The pipeline is fully automated and scheduled for daily execution.
-
----
-
-## Architecture
-
-# SaaS Analytics End-to-End Data Pipeline 🚀
-
-## Overview
-This project is an end-to-end **SaaS Analytics Data Pipeline** built using a **Medallion Architecture (Bronze → Silver → Gold)**.  
-It ingests raw SaaS data, performs transformations and data quality checks, produces BI-ready aggregates, and delivers insights via dashboards and EDA.
-
-The pipeline is fully automated and scheduled for daily execution.
-
----
-
-## Architecture
 Raw CSVs --> Bronze layer(Raw Ingestion) --> Silver Layer(Cleaning, Validation, Enrichment) --> Gold Layer(Business Aggregates) --> EDA + Dashboard
 
 
